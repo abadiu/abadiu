@@ -1,6 +1,10 @@
 ### Hey bub
 
-My name is Adrian, I'm UK based frontend engineer and a huge X-men nerd. Welcome to my github profile.
+“There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.”
+
+– Jiddu Krishnamurti
+
+
 
 - 🔭 I’m currently working on ...
 Ottimo, website optimisation SaaS
