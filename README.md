@@ -3,7 +3,7 @@
 My name is Adrian, I'm UK based frontend engineer and a huge X-men nerd. Welcome to my github profile.
 
 - 🔭 I’m currently working on ...
-- Ottimo, website optimisation SaaS
+Ottimo, website optimisation SaaS
 
 <!--
 **abadiu/abadiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
